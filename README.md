@@ -1,6 +1,6 @@
 ### Hi there, I'm Zohreh!
 
-I'm an AI and Robotics Master's student and Research Assistant, deeply immersed in the world of AI. I bring 3+ years of R&D experience to the ever-evolving fields of AI and Machine Learning. Specializing in Computer Vision, Deep Learning, and ML Engineering, 1+ year as a Data Scientist, and extensive expertise in Python. I am passionate about pushing the boundaries of technology and embracing complex challenges. 
+I'm an AI and Robotics Master's student and Research Assistant, deeply immersed in the world of AI. I have 3+ years of R&D experience in the ever-evolving fields of AI and Machine Learning. Specializing in Computer Vision, Deep Learning, and ML Engineering, 1+ year as a Data Scientist, and extensive expertise in Python. I am passionate about pushing the boundaries of technology and embracing complex challenges. 
 
 > "Code like a boss, teach like a guru, and kick like a Taekwondo pro. That's how I roll!"
 
